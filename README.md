@@ -25,7 +25,8 @@
 ![px](https://user-images.githubusercontent.com/83407832/150933112-339bd8be-4259-44b7-ae16-d8cd89c08bdc.jpg)
 
 </div>
-<h3 align="center">黄緑の線は閾値による輪郭線です。</h3>
+&nbsp;
+<h4 align="center">黄緑の線は閾値によ輪郭線です。</h4>
 
 
 <h3 align="left">Languages and Tools:</h3>
