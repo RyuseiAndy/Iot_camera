@@ -33,4 +33,5 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Python-OpenCv-6F02B5.svg?logo=python&style=popout-square">
 <img src="https://img.shields.io/badge/-Raspberrypi-C51A4A.svg?logo=raspberrypi&style=popout-square">
+<img src="https://img.shields.io/badge/-Line-00C300.svg?logo=line&style=plastic">
 &nbsp;
