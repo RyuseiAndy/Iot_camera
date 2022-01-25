@@ -1,8 +1,21 @@
-<h1 align="center">Hi 👋, I'm potepan</h1>
+<h1 align="center">Raspberry Piを用いたIot監視カメラ</h1>
 &nbsp;
-<h3 align="center">A passionate frontend developer from Japan</h3>
-- 🔭 I’m currently working on **Potepan style** - 🌱 I’m currently learning **Python** - 💬 Ask me about **vue**
+<h3 align="center">Motivation</h3>
+- 自分のアパートに友達が遊びに来た時、駐車場に車を停めて遊んでいた所、鍵傷で文字を書かれる悪戯にあったことがありました。自分の家の駐車場は治安が悪いと思ったので、物体を検知したら通知をしてくれるIoTカメラを作りたいと考えました。
+
+<h3 align="center">Purpose</h3>
+-RaspberryPi3 とライブラリにあるOpenCV、Webカメラを使用し、撮影している映像に変化があった場合に検知される、動体検知カメラを作成する。
+
+-また、撮影された映像がインターネットを軽有して（LINE Notify）を使用し,LINEに通知が来るようにすることが目的
+
+<h3 align="center">Functional spec</h3>
+
+<h3 align="center">Purpose</h3>
+<h3 align="center">Purpose</h3>
+
 <h3 align="left">Languages and Tools:</h3>
 &nbsp;
-<p align="left"><a href="https://expressjs.com" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a> <a href="https://www.oracle.com/" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a> <a href="https://www.postgresql.org" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a> <a href="https://vuejs.org/" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> </a></p>
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noopener"> <img src="https://www.google.com/search?q=python+aikonn&rlz=1C5CHFA_enJP954JP954&nfpr=1&sxsrf=AOaemvJharYR6Oq38uPbBYFKcBePMBum6Q:1643086418506&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjVm73yjcz1AhVPM94KHfP7BpQQ_AUoAXoECAEQAw&biw=1440&bih=732&dpr=2#imgrc=o2gaWCWjP9WiRM" alt="express" width="40" height="40" /></a> 
+</p>
 &nbsp;
