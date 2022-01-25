@@ -17,7 +17,7 @@
 <h3 align="center">Creative points in My work with figures </h3>
 ー  画像の閾値に輪郭線を入れることで変化がわかりやすく見やすくしました
 ー  保存される画像が容量いっぱいにならないようPCのローカルディスクは上書きされるようにした点、しかしLINE上で送信される画像は物体が動き保存された画像全てを通知する点
-
+<t></t>
 <div align="center">
 
 ![px](https://user-images.githubusercontent.com/83407832/150933112-339bd8be-4259-44b7-ae16-d8cd89c08bdc.jpg)
