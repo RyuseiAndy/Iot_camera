@@ -19,9 +19,10 @@
 ー  保存される画像が容量いっぱいにならないようPCのローカルディスクは上書きされるようにした点、しかしLINE上で送信される画像は物体が動き保存された画像全てを通知する点
 
 <a align="center">
-![px](https://user-images.githubusercontent.com/83407832/150933112-339bd8be-4259-44b7-ae16-d8cd89c08bdc.jpg)
 
+![px](https://user-images.githubusercontent.com/83407832/150933112-339bd8be-4259-44b7-ae16-d8cd89c08bdc.jpg)
 </a>
+
 <h3 align="left">Languages and Tools:</h3>
 &nbsp;
 <img src="https://img.shields.io/badge/Python-OpenCv-6F02B5.svg?logo=python&style=popout-square">
