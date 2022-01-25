@@ -5,7 +5,7 @@ import cv2 as cv
 import requests,os
 import urllib.parse as parse
 
-token = '***************'
+token = 'LOCAL_LINENOTIF_TOKEN'
 api = "https://notify-api.line.me/api/notify"
 
 #save pisture
